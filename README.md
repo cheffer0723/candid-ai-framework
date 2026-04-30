@@ -51,6 +51,6 @@ This document may be freely cited for academic or research purposes with attribu
 
 ## Contact
 
-**Author:** [YOUR FULL LEGAL NAME]  
-**Email:** [YOUR EMAIL]  
+**Author:** [CHRIS HEFFERNAN]  
+**Email:** [contact@criticalmasstoken.com]  
 **Date of First Public Disclosure:** April 29, 2026
