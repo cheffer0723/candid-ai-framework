@@ -4,7 +4,7 @@
 
 ### Author: [CHRISTOPHER P HEFFERNAN]
 
-### Location: Louisville, Ohio, United States
+### Location: ALLIANCE, Ohio, United States
 
 ---
 
@@ -153,10 +153,10 @@ This document is published publicly to establish prior art and the author's orig
 
 ---
 
-**Author:** [YOUR FULL LEGAL NAME]  
+**Author:** [CHRISTOPHER P HEFFERNAN]  
 **Date:** April 29, 2026  
-**Location:** Louisville, Ohio, United States  
-**Contact:** [YOUR EMAIL]
+**Location:** ALLIANCE, Ohio, United States  
+**Contact:** [contact@criticalmasstoken.com]
 
 ---
 
