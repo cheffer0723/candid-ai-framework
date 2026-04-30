@@ -1,6 +1,6 @@
 # Candid AI Framework — Proprietary License
 
-**Copyright © 2026 [YOUR FULL LEGAL NAME]. All Rights Reserved.**  
+**Copyright © 2026 [CHRIS HEFFERNAN]. All Rights Reserved.**  
 **Effective Date:** April 29, 2026  
 **Louisville, Ohio, United States**
 
