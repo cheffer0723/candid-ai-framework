@@ -1,7 +1,7 @@
 # Candid AI Framework
 
 > **Public Disclosure — April 29, 2026**  
-> Original concept by [YOUR FULL LEGAL NAME], Louisville, Ohio, United States
+> Original concept by [CHRIS HEFFERNAN], ALLIANCE, Ohio, United States
 
 ---
 
