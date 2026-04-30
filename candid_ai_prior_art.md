@@ -145,6 +145,26 @@ The Candid AI Framework is applicable across any domain where AI-generated infor
 
 ---
 
+## Differentiation from Current Market Products
+
+BrutallyHonest.ai (brutallyhonest.ai, est. prior to April 2026, 69,000+ users) markets itself as a direct, no-sugarcoating AI chatbot. It is distinguished from the Candid AI Framework in the following critical ways:
+
+BrutallyHonest.ai is a tone modification — it instructs an LLM to respond bluntly. It produces no structured metrics.
+It has no Risk % output, no Candor % output, and no Confidence % output.
+It has no primary directive philosophy governing the reasoning layer.
+It is a consumer chatbot product, not a licensable reasoning framework or API layer.
+
+The Candid AI Framework is not a tone. It is a reasoning architecture and output standard that operates independently of any LLM's default communication style.
+Confident AI (confident-ai.com) is an AI quality monitoring platform that evaluates AI system performance in production pipelines. It scores AI systems at the infrastructure level over time — not individual responses in real time at the point of user interaction. It has no candor metric, no per-response risk scoring, and no primary directive framework.
+Academic research has explored LLM confidence expression (e.g. outputting uncertainty percentages), but no peer-reviewed work or commercial product has combined Risk %, Candor %, and Confidence % as a unified per-response output standard with an accompanying primary directive and commercial licensing framework.
+No existing product, patent, or publication combines all three of the following:
+
+Per-response Risk %, Candor %, and Confidence % metrics displayed in real time
+A primary directive that subordinates all other objectives to not wasting the human's time
+A commercial framework designed for API licensing and enterprise deployment
+
+---
+
 ## Conclusion
 
 The Candid AI Framework represents a fundamental reorientation of LLM output design — from optimizing for the AI provider's risk management to optimizing for the human's time and decision-making quality. The three-metric output standard (Risk %, Candor %, Confidence %) provides a practical, implementable mechanism for delivering on this reorientation.
