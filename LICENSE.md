@@ -46,8 +46,8 @@ No AI company — including but not limited to Anthropic, OpenAI, Google, Meta, 
 
 To obtain a commercial license to implement, build upon, or monetize the Candid AI Framework, contact:
 
-**[YOUR FULL LEGAL NAME]**  
-**[YOUR EMAIL]**
+**[CHRIS HEFFERNAN]**  
+**[contact@criticalmasstoken.com]**
 
 ---
 
