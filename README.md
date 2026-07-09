@@ -39,6 +39,8 @@ Every substantive AI response produced under this framework includes three expli
 |---|---|
 | `candid_ai_prior_art.md` | Full prior art disclosure document including framework definitions, reasoning architecture, and differentiation from existing approaches |
 | `docs/mvp-prd.md` | Draft MVP product requirements document translating the framework into a buildable specification while preserving the repo's proprietary licensing constraints |
+| `docs/evaluation-set-spec.md` | Draft specification for the offline MVP evaluation set, including categories, dataset fields, and review rules |
+| `docs/prompt-contract-v0.md` | Draft prompt and output contract for emitting Risk, Candor, and Confidence metrics in a structured way |
 
 ---
 
