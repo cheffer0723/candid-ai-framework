@@ -38,6 +38,7 @@ Every substantive AI response produced under this framework includes three expli
 | File | Description |
 |---|---|
 | `candid_ai_prior_art.md` | Full prior art disclosure document including framework definitions, reasoning architecture, and differentiation from existing approaches |
+| `docs/mvp-prd.md` | Draft MVP product requirements document translating the framework into a buildable specification while preserving the repo's proprietary licensing constraints |
 
 ---
 
